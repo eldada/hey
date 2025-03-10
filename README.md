@@ -1,6 +1,6 @@
 ![hey](http://i.imgur.com/szzD9q0.png)
 
-hey is a tiny program that sends some load to a web application.
+`hey` is a tiny program that sends some load to a web application.
 
 hey was originally called boom and was influenced from Tarek Ziade's
 tool at [tarekziade/boom](https://github.com/tarekziade/boom). Using the same name was a mistake as it resulted in cases
