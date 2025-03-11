@@ -17,10 +17,11 @@ This will run all the `go build` commands under the `release` section of the [Ma
 
 ## Installation
 
-* Linux 64-bit: https://hey-release.s3.us-east-2.amazonaws.com/hey_linux_amd64
+Download the binary from the following links:
+* Linux 64-bit x86: https://eldada.jfrog.io/artifactory/tools/hey/hey_linux_amd64
 * Linux 64-bit ARM: https://eldada.jfrog.io/artifactory/tools/hey/hey_linux_arm64
-* Mac 64-bit: https://hey-release.s3.us-east-2.amazonaws.com/hey_darwin_amd64
-* Windows 64-bit: https://hey-release.s3.us-east-2.amazonaws.com/hey_windows_amd64
+* Mac 64-bit:       https://eldada.jfrog.io/artifactory/tools/hey/hey_darwin_amd64
+* Windows 64-bit:   https://eldada.jfrog.io/artifactory/tools/hey/hey_windows_amd64
 
 ### Package Managers
 
